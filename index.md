@@ -1,6 +1,6 @@
 ## Welcome to Wooden Pixel
 
-
+![img/vinoteca.jpg](img/vinoteca.jpg)
 
 You can use the [editor on GitHub](https://github.com/pedromorfeu/wooden-pixel/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
